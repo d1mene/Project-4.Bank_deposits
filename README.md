@@ -1,4 +1,4 @@
-<center> <span style='font-size:2.5em;'>Project-3.EDA_&_ML: Hotel Review Score</span> <center>
+# <center> <span style='font-size:1.5em;'>Project-4.EDA_&_ML: Bank deposits</span> <center>
 
 # Какой кейс решаем?
 <span style='font-size:1.2em;'>*Представим, что получили заказ от крупного американского банка. Он хранит огромный объём данных о клиентах, используемый в маркетинговых кампаниях. <br> <br>
